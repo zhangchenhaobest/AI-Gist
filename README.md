@@ -1,3 +1,29 @@
+# AI-Gist
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+A privacy-first AI prompt manager with variables, Jinja templates, AI generation and tuning, version history and cloud backup.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+隐私优先的 AI 提示词管理工具，支持变量替换、Jinja 模板、AI 生成调优、历史版本与云端备份。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 
 ![Logo](docs/images/logo.png)
